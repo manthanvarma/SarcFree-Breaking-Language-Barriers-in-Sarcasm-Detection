@@ -6,7 +6,7 @@ pandas
 numpy
 matplotlib
 seaborn
-torch==2.1.0+cpu
+torch==2.2.0
 transformers==4.37.2
 sentencepiece
 tokenizers
